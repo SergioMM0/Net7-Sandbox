@@ -1,0 +1,15 @@
+C:\Users\Sergio\Documents\GitHub\Net7-Sandbox\bin\Debug\net7.0\Net7-Sandbox.exe
+C:\Users\Sergio\Documents\GitHub\Net7-Sandbox\bin\Debug\net7.0\Net7-Sandbox.deps.json
+C:\Users\Sergio\Documents\GitHub\Net7-Sandbox\bin\Debug\net7.0\Net7-Sandbox.runtimeconfig.json
+C:\Users\Sergio\Documents\GitHub\Net7-Sandbox\bin\Debug\net7.0\Net7-Sandbox.dll
+C:\Users\Sergio\Documents\GitHub\Net7-Sandbox\bin\Debug\net7.0\Net7-Sandbox.pdb
+C:\Users\Sergio\Documents\GitHub\Net7-Sandbox\obj\Debug\net7.0\Net7-Sandbox.csproj.AssemblyReference.cache
+C:\Users\Sergio\Documents\GitHub\Net7-Sandbox\obj\Debug\net7.0\Net7-Sandbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Documents\GitHub\Net7-Sandbox\obj\Debug\net7.0\Net7-Sandbox.AssemblyInfoInputs.cache
+C:\Users\Sergio\Documents\GitHub\Net7-Sandbox\obj\Debug\net7.0\Net7-Sandbox.AssemblyInfo.cs
+C:\Users\Sergio\Documents\GitHub\Net7-Sandbox\obj\Debug\net7.0\Net7-Sandbox.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Documents\GitHub\Net7-Sandbox\obj\Debug\net7.0\Net7-Sandbox.dll
+C:\Users\Sergio\Documents\GitHub\Net7-Sandbox\obj\Debug\net7.0\refint\Net7-Sandbox.dll
+C:\Users\Sergio\Documents\GitHub\Net7-Sandbox\obj\Debug\net7.0\Net7-Sandbox.pdb
+C:\Users\Sergio\Documents\GitHub\Net7-Sandbox\obj\Debug\net7.0\Net7-Sandbox.genruntimeconfig.cache
+C:\Users\Sergio\Documents\GitHub\Net7-Sandbox\obj\Debug\net7.0\ref\Net7-Sandbox.dll
