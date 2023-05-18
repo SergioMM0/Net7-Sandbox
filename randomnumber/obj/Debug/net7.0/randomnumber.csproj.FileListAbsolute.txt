@@ -1,0 +1,15 @@
+D:\N00BDEVS\c#\Sandbox_Vin\Net7-Sandbox\randomnumber\bin\Debug\net7.0\randomnumber.exe
+D:\N00BDEVS\c#\Sandbox_Vin\Net7-Sandbox\randomnumber\bin\Debug\net7.0\randomnumber.deps.json
+D:\N00BDEVS\c#\Sandbox_Vin\Net7-Sandbox\randomnumber\bin\Debug\net7.0\randomnumber.runtimeconfig.json
+D:\N00BDEVS\c#\Sandbox_Vin\Net7-Sandbox\randomnumber\bin\Debug\net7.0\randomnumber.dll
+D:\N00BDEVS\c#\Sandbox_Vin\Net7-Sandbox\randomnumber\bin\Debug\net7.0\randomnumber.pdb
+D:\N00BDEVS\c#\Sandbox_Vin\Net7-Sandbox\randomnumber\obj\Debug\net7.0\randomnumber.csproj.AssemblyReference.cache
+D:\N00BDEVS\c#\Sandbox_Vin\Net7-Sandbox\randomnumber\obj\Debug\net7.0\randomnumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\N00BDEVS\c#\Sandbox_Vin\Net7-Sandbox\randomnumber\obj\Debug\net7.0\randomnumber.AssemblyInfoInputs.cache
+D:\N00BDEVS\c#\Sandbox_Vin\Net7-Sandbox\randomnumber\obj\Debug\net7.0\randomnumber.AssemblyInfo.cs
+D:\N00BDEVS\c#\Sandbox_Vin\Net7-Sandbox\randomnumber\obj\Debug\net7.0\randomnumber.csproj.CoreCompileInputs.cache
+D:\N00BDEVS\c#\Sandbox_Vin\Net7-Sandbox\randomnumber\obj\Debug\net7.0\randomnumber.dll
+D:\N00BDEVS\c#\Sandbox_Vin\Net7-Sandbox\randomnumber\obj\Debug\net7.0\refint\randomnumber.dll
+D:\N00BDEVS\c#\Sandbox_Vin\Net7-Sandbox\randomnumber\obj\Debug\net7.0\randomnumber.pdb
+D:\N00BDEVS\c#\Sandbox_Vin\Net7-Sandbox\randomnumber\obj\Debug\net7.0\randomnumber.genruntimeconfig.cache
+D:\N00BDEVS\c#\Sandbox_Vin\Net7-Sandbox\randomnumber\obj\Debug\net7.0\ref\randomnumber.dll
