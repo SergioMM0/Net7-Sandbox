@@ -9,8 +9,9 @@ class Cajon
     }
 
     public int takeOutRandomNumberGenerator(){
-        var first = randomList.First;
+        var first = randomList.First();
         var randomNumber = first.randomNumber();
         randomList.Remove(first);
+        return randomNumber;
     }
 }

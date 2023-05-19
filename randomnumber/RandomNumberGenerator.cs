@@ -7,6 +7,6 @@ class RandomNumberGenerator
     }
 
     public int randomNumber(){
-        return Random(10);
+        return new Random().Next(1, 10);
     }
 }
