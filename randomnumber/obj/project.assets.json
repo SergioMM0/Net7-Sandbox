@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\NACHO\\.nuget\\packages\\": {}
+    "C:\\Users\\sergi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\N00BDEVS\\c#\\Sandbox_Vin\\Net7-Sandbox\\randomnumber\\randomnumber.csproj",
+      "projectUniqueName": "C:\\Users\\sergi\\EASV\\Net7-Sandbox\\randomnumber\\randomnumber.csproj",
       "projectName": "randomnumber",
-      "projectPath": "D:\\N00BDEVS\\c#\\Sandbox_Vin\\Net7-Sandbox\\randomnumber\\randomnumber.csproj",
-      "packagesPath": "C:\\Users\\NACHO\\.nuget\\packages\\",
-      "outputPath": "D:\\N00BDEVS\\c#\\Sandbox_Vin\\Net7-Sandbox\\randomnumber\\obj\\",
+      "projectPath": "C:\\Users\\sergi\\EASV\\Net7-Sandbox\\randomnumber\\randomnumber.csproj",
+      "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sergi\\EASV\\Net7-Sandbox\\randomnumber\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\NACHO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\sergi\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
