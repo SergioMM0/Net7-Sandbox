@@ -1,12 +1,12 @@
 class RandomNumberGenerator
 {
-    string name;
+    public string name {get; set; }
 
     public RandomNumberGenerator(string name){
         this.name = name;
     }
 
     public int randomNumber(){
-        return new Random().Next(1, 10);
+        return new Random().Next(1,10);
     }
 }

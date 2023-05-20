@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sergi\\EASV\\Net7-Sandbox\\randomnumber\\randomnumber.csproj": {}
+    "C:\\Users\\Sergio\\Documents\\GitHub\\Net7-Sandbox\\randomnumber\\randomnumber.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sergi\\EASV\\Net7-Sandbox\\randomnumber\\randomnumber.csproj": {
+    "C:\\Users\\Sergio\\Documents\\GitHub\\Net7-Sandbox\\randomnumber\\randomnumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sergi\\EASV\\Net7-Sandbox\\randomnumber\\randomnumber.csproj",
+        "projectUniqueName": "C:\\Users\\Sergio\\Documents\\GitHub\\Net7-Sandbox\\randomnumber\\randomnumber.csproj",
         "projectName": "randomnumber",
-        "projectPath": "C:\\Users\\sergi\\EASV\\Net7-Sandbox\\randomnumber\\randomnumber.csproj",
-        "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sergi\\EASV\\Net7-Sandbox\\randomnumber\\obj\\",
+        "projectPath": "C:\\Users\\Sergio\\Documents\\GitHub\\Net7-Sandbox\\randomnumber\\randomnumber.csproj",
+        "packagesPath": "C:\\Users\\Sergio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sergio\\Documents\\GitHub\\Net7-Sandbox\\randomnumber\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sergi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Sergio\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
