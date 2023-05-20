@@ -2,7 +2,9 @@ class Cajon
 {
     public List<RandomNumberGenerator> randomList {get; set;}
 
-    public Cajon(){}
+    public Cajon(){
+        this.randomList = new List<RandomNumberGenerator>();
+    }
 
     public void addRandomNumberGenerator(RandomNumberGenerator caxibaxe){
         randomList.Add(caxibaxe);

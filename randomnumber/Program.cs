@@ -41,9 +41,12 @@ class Program
 
         for (int i = 0; i < Convert.ToInt32(numberOfRGNToTakeOut)-1; i++)
         {
+            var RNGName = cajon.randomList.First().name;
             var randomNumber = cajon.takeOutRandomNumberGenerator();
-            Console.WriteLine($"Parece que el RNG está diciendo algo: {randomNumber}");
+            Console.WriteLine($"Hemos sacado el RNG {RNGName}y parece que está diciendo algo: {randomNumber}");
         }
+
+        Console.ReadLine();
 
         Console.WriteLine("¡Eso es todo!");
 
